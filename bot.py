@@ -2,7 +2,7 @@ import discord
 import responses
 import racist
 
-DISCORD_TOKEN = "MTE1MzY2NTU5NjY4NTI5MTYzMQ.G4By65.NIbFPeqU8gYLVmc2UvnbRdmU4cHbCtQMGTeIJU"
+DISCORD_TOKEN = "mytoken"
 
 intents = discord.Intents.default()
 intents.message_content = True
